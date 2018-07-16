@@ -1,0 +1,15 @@
+To read all records
+GET		/students
+
+To add new record
+POST	/student
+
+To delete specific record
+DELETE	/student/1
+
+To read specific record
+GET		/student/1
+
+To update existing record by ID
+PUT		/student/1
+
