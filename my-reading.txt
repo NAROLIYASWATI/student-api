@@ -2,3 +2,8 @@ https://mydevgeek.com/angular-4-crud-application-with-spring-boot-rest-service-p
 
 
 Example: https://github.com/damithme/angular4-cli-spring-boot-example
+
+
+https://www.youtube.com/watch?v=jZcvv7nrcso
+https://www.youtube.com/watch?v=kDiPwgNv1T8
+https://www.youtube.com/watch?v=oVxFPkOVc_k
